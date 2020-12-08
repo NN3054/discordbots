@@ -1,6 +1,6 @@
 # discordbots
 
-in Discordbots you will find my personal coded discordbots which I use for private matters. 
+In Discordbots you will find my personal coded discordbots which I use for private matters. The is yet only one but more to come. 
 
 Explanation of the bots:
 CodeLogger:
